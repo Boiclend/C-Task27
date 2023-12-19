@@ -1,0 +1,14 @@
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\bin\Debug\net8.0\Task27.exe
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\bin\Debug\net8.0\Task27.deps.json
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\bin\Debug\net8.0\Task27.runtimeconfig.json
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\bin\Debug\net8.0\Task27.dll
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\bin\Debug\net8.0\Task27.pdb
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.AssemblyInfoInputs.cache
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.AssemblyInfo.cs
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.dll
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\refint\Task27.dll
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.pdb
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\Task27.genruntimeconfig.cache
+C:\Users\РомаиЛиля\Desktop\C#Task27\Task27\obj\Debug\net8.0\ref\Task27.dll
